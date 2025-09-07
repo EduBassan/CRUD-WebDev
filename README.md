@@ -64,6 +64,19 @@ meu-projeto/
 
 ---
 
+## 🌍 GitHub Pages
+
+A aplicação também pode ser acessada online pelo link:  
+👉 [Clique aqui para acessar o projeto](https://edubassan.github.io/CRUD-WebDev/)
+
+---
+
+## 👥 Integrantes
+
+- **Eduardo Santiago Bassan** — Desenvolvimento e documentação   
+
+---
+
 ## 📸 Exemplo de card
 
 [ Foto da jogadora ]
